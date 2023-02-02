@@ -2,8 +2,9 @@
 
 # Combine PDF files, output in a CombinedFiles subdirectory
 # sudo apt-get install ghostscript
+# sudo apt-get install -y poppler-utils
 
-# files should be in current directory
+# files should be in current directory (download in batch from ETAP)
 # ls *Appl* gives list of applicants
 
 outdir=CombinedFiles
